@@ -1,5 +1,7 @@
 # Car-parkin-system
 
+#Importance of this system are:
+
 Efficient utilization of space: With the increasing number of vehicles on the road, parking spaces are limited and valuable. Car parking systems help optimize the use of available space by efficiently organizing and managing parking areas, ensuring that vehicles are parked in an organized manner and reducing congestion.
 
 Traffic management: Properly designed car parking systems contribute to the overall traffic management in cities and busy areas. By providing designated parking areas and guiding drivers to available parking spaces, it helps reduce the time spent searching for parking, which in turn reduces traffic congestion and improves traffic flow.
