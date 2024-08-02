@@ -3,7 +3,7 @@
 It is an automatic system that does not need a human being to open and close the door or to signal availability of space, it is an automatic system that opens the door automatically when it is there is space available when the person arrives to park or the person decides to leave the car park and to interest him who wants to park will see a table which will indicate whether there is space in the car park or No
 
 
-## IMPORTANCE OF THIS SYSYTEM ARE:
+## Importance of this system are:
 
 Efficient utilization of space: With the increasing number of vehicles on the road, parking spaces are limited and valuable. Car parking systems help optimize the use of available space by efficiently organizing and managing parking areas, ensuring that vehicles are parked in an organized manner and reducing congestion.
 
